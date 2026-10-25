@@ -1,11 +1,11 @@
-# dreamer
+# kalon
 
 Early-stage Python project. See `README.md` for the current status.
 
 ## Commands
 
 - `uv sync` — install dependencies
-- `uv run dreamer` — CLI
+- `uv run kalon` — CLI
 - `uv run pytest` — tests
 - `uv run ruff check .` — lint
 - `uv run ruff format .` — format

@@ -1,6 +1,6 @@
-from dreamer.cli import main
+from kalon.cli import main
 
 
 def test_cli_prints_version(capsys):
     main()
-    assert capsys.readouterr().out.startswith("dreamer ")
+    assert capsys.readouterr().out.startswith("kalon ")

@@ -1,4 +1,4 @@
-# dreamer
+# kalon
 
 An early-stage Python project.
 
@@ -15,7 +15,7 @@ uv sync
 ## Development
 
 ```sh
-uv run dreamer        # CLI (prints the version)
+uv run kalon          # CLI (prints the version)
 uv run pytest         # tests
 uv run ruff check .   # lint
 uv run ruff format .  # format
@@ -23,5 +23,5 @@ uv run ruff format .  # format
 
 ## Layout
 
-- `src/dreamer/` — package code
+- `src/kalon/` — package code
 - `tests/` — tests
